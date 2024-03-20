@@ -1,0 +1,4 @@
+HOW TO RUN A REACT PROJECT
+============================
+
+npm start  
